@@ -39,7 +39,7 @@ This C# console project allows users to modify the durability and force attribut
 
 **Contributions:**
 
-- dev-smurf
+- @dev-smurf
 
 ---
 
